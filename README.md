@@ -65,10 +65,7 @@ logic_gate_game/
 ## Demo
 以下のサンプル動画をクリックして、ゲームのイメージをご確認ください。
 
-<video controls width="600">
-  <source src="logical_gate-game.mp4" type="video/mp4">
-  お使いのブラウザは動画要素をサポートしていません。
-</video>
+![demo](https://github.com/user-attachments/assets/bff9079d-ef26-48bc-9d7f-8fa04e932e52)
 
 ## 今後の展望
 - 複数プレイヤーモードの追加
