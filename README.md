@@ -81,6 +81,3 @@ logic_gate_game/
 ## 開発者向け
 プルリクエストやバグ報告は大歓迎です！
 
-## お問い合わせ
-ご質問やフィードバックがありましたら、[example@example.com](mailto:example@example.com)までご連絡ください。
-
